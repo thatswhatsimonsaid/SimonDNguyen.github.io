@@ -1,3 +1,10 @@
+---
+title: "Talks"
+author_profile: true
+redirect_from:
+  - /talks.html
+---
+
 <!-- Leave two spaces at the end -->
 
 **Using Rashomon Sets for Robust Active Learning**  &nbsp;

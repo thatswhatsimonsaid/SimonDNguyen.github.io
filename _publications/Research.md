@@ -1,16 +1,17 @@
 ---
-title: "Using Rashomon Sets for Robust Active Learning"
+title: "Research"
+author_profile: true
+redirect_from:
+  - /talks.html
 ---
 
+**Using Rashomon Sets for Robust Active Learning** 
 Collecting labeled data for training machine learning models is often costly and time-consuming. Active learning addresses these constraints by adaptively and strategically selecting the most informative observations for labeling. However, the current active learning literature does not account for model ambiguity and the possibility that several near-optimal models may fit the data well, a phenomenon termed the Rashomon Effect. When selecting the most informative candidate observation for labelling, the Rashomon Effect may suggest different candidate observations. Which observation, then, should an analyst query?
 
 In this work, we propose a novel active learning algorithm, that addresses both this predictive multiplicity and the core issue of model ambiguity. Our approach enumerates the Rashomon set of near-optimal models and weights the selection metric by the posterior model probability. We then select the observation with the highest uncertainty from any model in the Rashomon set, embodying a conservative, ambiguity-averse strategy. This ensures a "best worst case" decision-making process restricted to the most plausible models, providing a robust method for selecting informative observations under model uncertainty. We term this procedure $\textit{Rashomon Restricted Ambiguity Averse Active Learning (RRAA-AL)}$.
 
 
----
-title: "Optimal full matching under a new constraint on the sharing of controls"
----
-
+**Optimal full matching under a new constraint on the sharing of controls**
 Health policy researchers are often interested in the causal effect of a medical
 treatment in situations where randomization is not possible. Full matching on the
 propensity score (Gu & Rosenbaum, 1993) aims to emulate random assignment by
