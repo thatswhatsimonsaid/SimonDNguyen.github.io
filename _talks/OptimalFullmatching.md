@@ -1,5 +1,5 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Optimal full matching under a new constraint on the sharing of controls: Application in pediatric critical care"
 collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
