@@ -8,16 +8,6 @@ date: 2012-03-01
 location: "San Francisco, California"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-
-
----
-title: "Talks"
-author_profile: true
-redirect_from:
-  - /talks.html
----
-
 {% include base_path %}
 
 <!-- Leave two spaces at the end -->
