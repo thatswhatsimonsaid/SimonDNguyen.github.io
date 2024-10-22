@@ -6,13 +6,13 @@
 
 main:
   - title: "Research"
-    url: /publications/Research.md
+    url: /publications
 
   - title: "Resume"
     url: /files/ResumeOctober2024.pdf
 
   - title: "Talks"
-    url: /talks/talks.md    
+    url: /talks
 
   - title: "Teaching"
     url: /teaching/    
