@@ -1,10 +1,3 @@
----
-title: "Talks"
-author_profile: true
-redirect_from:
-  - /talks.html
----
-
 <!-- Leave two spaces at the end -->
 
 **Using Rashomon Sets for Robust Active Learning**  &nbsp;
@@ -16,4 +9,3 @@ redirect_from:
 * Michigan Student Symposium for Interdisciplinary Statistical Sciences(https://sites.google.com/view/siampnw23/), March 2023, Ann Arbor, MI, USA.  
 * International Chinese Statistical Association Applied Statistics Symposium, June 2023, Ann Arbor, MI, USA.  
 * Joint Statistical Meetings, August 2023, Ann Arbor, MI, USA.  
-
