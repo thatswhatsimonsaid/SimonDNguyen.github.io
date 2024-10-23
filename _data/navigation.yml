@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /research/Research/
+    url: /publications/Research/
 
   - title: "Resume"
     url: /files/ResumeOctober2024.pdf
@@ -17,8 +17,8 @@ main:
   - title: "Teaching"
     url: /teaching/teaching/
     
-  - title: "Service"
-    url: /service/service/
+  - title: "Portfolio"
+    url: /portfolio/service/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
