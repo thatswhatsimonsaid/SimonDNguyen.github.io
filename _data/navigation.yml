@@ -6,7 +6,7 @@
 
 main:
   - title: "Research"
-    url: /publications
+    url: /publications/Research
 
   - title: "Resume"
     url: /files/ResumeOctober2024.pdf
