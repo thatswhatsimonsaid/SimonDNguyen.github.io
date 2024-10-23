@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Teaching"
+author_profile: true
+redirect_from:
+  - /talks.html
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**University of Washington, Seattle**
+* [*Introduction to Probability and Mathematical Statistics II*](https://stat.uw.edu/academics/course-catalog/stat-341)	Sep. 2024 - Present
+* [*Elements of Statistical Methods*](https://stat.uw.edu/academics/course-catalog/stat-311)	Mar. 2024 - Aug. 2024
+* [*Statistical Methods in Engineering and Science*](https://stat.uw.edu/academics/course-catalog/stat-390)	Sep. 2023 - Mar. 2024
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+**University of Michigan, Ann Arbor**
+* *Introduction to Data Science*	Jan. 2023 - Apr. 2023
+* *Introduction to Statistics and Data Analysis*	Jan. 2022 - Dec. 2022
