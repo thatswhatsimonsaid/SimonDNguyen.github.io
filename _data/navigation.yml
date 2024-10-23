@@ -6,19 +6,19 @@
 
 main:
   - title: "Research"
-    url: /pages/Research/
+    url: /_pages/Research/
 
   - title: "Resume"
     url: /files/ResumeOctober2024.pdf
 
   - title: "Talks"
-    url: /pages/talks/
+    url: /_pages/talks/
 
   - title: "Teaching"
-    url: /pages/teaching/
+    url: /_pages/teaching/
     
   - title: "Service"
-    url: /pages/service
+    url: /_pages/service
         
   # - title: "Blog Posts"
   #   url: /year-archive/
