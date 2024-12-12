@@ -8,7 +8,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Using Rashomon Sets for Robust Active Learning**;
-* [*NeurIPS Bayesian Decision-making and Uncertainty Workshop*](https://openreview.net/forum?id=1d2tQi9keK), December 2024, Vancouver, BC, Canada.
+* [*NeurIPS Bayesian Decision-making and Uncertainty Workshop*](https://gp-seminar-series.github.io/neurips-2024/), December 2024, Vancouver, BC, Canada.
 
 **Optimal full matching under a new constraint on the sharing of controls**;
 * JSM, August 2023, Toronto, ON, Canada.  
