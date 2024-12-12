@@ -7,7 +7,7 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 * NeurIPS Workshop on Bayesian Decision-making and Uncertainty Reviewer 2024
-* Department PhD admission committee student reviewer 2024
-* Department Assistant Teaching Professor student committee 2024
+* Department PhD admission committee reviewer 2024
+* Department Assistant Teaching Professor student committee member 2024
 * [PhD Pre-Application Review Service](https://stat.uw.edu/pre-application-review-service)	2024
 * [StatsPhD.Com](https://www.statsphd.com/) Panel Chair	2023
