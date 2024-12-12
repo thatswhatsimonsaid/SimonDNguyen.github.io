@@ -7,7 +7,7 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**Using Rashomon Sets for Robust Active Learning**;
+**Aggregating Rashomon Sets for Robust Active Learning**;
 * [*NeurIPS Bayesian Decision-making and Uncertainty Workshop*](https://gp-seminar-series.github.io/neurips-2024/), December 2024, Vancouver, BC, Canada.
 
 **Optimal full matching under a new constraint on the sharing of controls**;
