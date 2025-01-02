@@ -6,6 +6,7 @@ redirect_from:
 ---
 
 <!-- Leave two spaces at the end -->
+* Mentor on the Undergraduate Statistics [Directed Reading Program](https://spa-drp.github.io/currentmentors.html); Mentee: Troy Russo
 * NeurIPS Workshop on Bayesian Decision-making and Uncertainty Reviewer 2024.
 * Student reviewer on the 2024 Statistics Department PhD admission committee.
 * Student member of the 2024 Statistics Department Assistant Teaching Professor recruitment committee.
