@@ -13,6 +13,8 @@ Active learning's key task is selecting informative data points to enhance model
 
 **Optimal full matching under a new constraint on the sharing of controls**
 
+[Presentation](/files/ICHPS_Presentation.pdf)
+
 Health policy researchers are often interested in the causal effect of a medical
 treatment in situations where randomization is not possible. Full matching on the
 propensity score [(Gu & Rosenbaum, 1993)](https://www.tandfonline.com/doi/abs/10.1080/10618600.1993.10474623) aims to emulate random assignment by
