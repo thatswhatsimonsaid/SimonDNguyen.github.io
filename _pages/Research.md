@@ -5,6 +5,14 @@ redirect_from:
   - /talks.html
 ---
 
+**Reinforcement Learning-Driven Active Learning for Regression** 
+
+[Codebase](https://github.com/thatswhatsimonsaid/WeightedGreedySampling)
+
+Active learning for regression aims to reduce labeling costs by intelligently selecting the most informative data points. State-of-the-art iGS method combines input-space diversity (exploration) and output-space uncertainty (exploitation) using a multiplicative approach. This project introduces a novel, more flexible methodology called Weighted improved Greedy Sampling (WiGS), which hypothesizes that the relative importance of exploration and exploitation is not equal and may change depending on the dataset and the stage of learning.
+
+Our framework recasts the selection criterion as a weighted, additive combination of normalized diversity and uncertainty scores. We explore several strategies for determining these weights, from static, user-defined balances to adaptive heuristics like time-based decay. Most significantly, we formulate the weight selection problem within a reinforcement learning framework, allowing an agent (MAB or SAC) to learn an optimal, data-driven policy for balancing the exploration-exploitation trade-off at each iteration. The results demonstrate that the flexible WiGS approach, particularly the adaptive methods, can outperform the original iGS, demonstrating the value of adaptively balancing exploration and exploitation.
+
 **Aggregating Rashomon Sets for Robust Active Learning** 
 
 [Paper/Presentation](https://neurips.cc/virtual/2024/98966)
