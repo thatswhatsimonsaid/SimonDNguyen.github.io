@@ -7,13 +7,13 @@ redirect_from:
 
 **Reinforcement Learning-Driven Active Learning for Regression** 
 
-[Codebase](https://github.com/thatswhatsimonsaid/WeightedGreedySampling) | [ArXiV](https://arxiv.org/abs/2603.10435)
+[Codebase](https://github.com/thatswhatsimonsaid/WeightedGreedySampling) [ArXiV](https://arxiv.org/abs/2603.10435)
 
 Active learning for regression reduces labeling costs by selecting the most informative samples. Improved Greedy Sampling is a prominent method that balances feature-space diversity and output-space uncertainty using a static, multiplicative rule. We propose Weighted improved Greedy Sampling (WiGS), which replaces this framework with a dynamic, additive criterion. We formulate weight selection as a reinforcement learning problem, enabling an agent to adapt the exploration-investigation balance throughout learning. Experiments on 18 benchmark datasets and a synthetic environment show WiGS outperforms iGS and other baseline methods in both accuracy and labeling efficiency, particularly in domains with irregular data density where the baseline's multiplicative rule ignores high-error samples in dense regions.
 
 **Aggregating Rashomon Sets for Robust Active Learning** 
 
-[Codebase](https://github.com/thatswhatsimonsaid/RashomonActiveLearning) | [ArXiV](https://arxiv.org/abs/2603.22750)
+[Codebase](https://github.com/thatswhatsimonsaid/RashomonActiveLearning) [ArXiV](https://arxiv.org/abs/2603.22750)
 
 Active learning reduces labeling costs by selecting samples that maximize information gain. A dominant framework, Query-by-Committee (QBC), typically relies on perturbation-based diversity by inducing model disagreement through random feature subsetting or data blinding. While this approximates one notion of epistemic uncertainty, it sacrifices direct characterization of the plausible hypothesis space. We propose the complementary approach: Rashomon Ensembled Active Learning (REAL) which constructs a committee by exhaustively enumerating the Rashomon Set of all near-optimal models. To address functional redundancy within this set, we adopt a PAC-Bayesian framework using a Gibbs posterior to weight committee members by their empirical risk. Leveraging recent algorithmic advances, we exactly enumerate this set for the class of sparse decision trees. Across synthetic and established active learning baselines, REAL outperforms randomized ensembles, particularly in moderately noisy environments where it strategically leverages expanded model multiplicity to achieve faster convergence.
 

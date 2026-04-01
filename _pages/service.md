@@ -8,7 +8,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 * Mentor on the Undergraduate Statistics [Directed Reading Program](https://spa-drp.github.io/currentmentors.html); Mentee: Troy Russo
 * University of Washington Statistical Consultant 2025
-* Association for the Advancement of Artificial Intelligence (AAAI) MURE Workshop Reviewer 2025
+* AAAI MURE Workshop Reviewer 2025
 * NeurIPS 2025 Position Paper Track Reviewer 2025
 * NeurIPS Workshop on Bayesian Decision-making and Uncertainty Reviewer 2024.
 * Student reviewer on the Statistics Department PhD admission committee.
