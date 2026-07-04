@@ -16,4 +16,4 @@ Before joining UW, I earned my Master’s in Statistics at the University of Mic
 
 In Summer 2025, I was a *Data Science Intern* the [Center for Naval Analyses (CNA)](https://www.cna.org/).
 
-In Summer 2026, I will ve a *Business Data Scientist Intern* at Google.
+In Summer 2026, I will be a *Business Data Scientist Intern* at Google.
