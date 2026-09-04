@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+> **📢 Job Market Status:** I am currently on the industry job market, seeking data scientist and applied scientist roles. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/thatswhatsimonsaid/) or via [email](mailto:simondn@uw.edu).
+
 I am a Ph.D. student in the Department of Statistics at the University of Washington, Seattle. I am fortunate to be advised by [Tyler H. McCormick](https://thmccormick.github.io/).
 
 My current research focuses on reinforcement learning and active learning, in which I build machine learning pipelines that not only learn efficiently but also provide diverse, transparent, and interpretable explanations.
@@ -17,5 +19,3 @@ Before my Ph.D., I earned my Master’s in Statistics at the University of Michi
 In Summer 2025, I was a *Data Science Intern* the [Center for Naval Analyses (CNA)](https://www.cna.org/).
 
 In Summer 2026, I will be a *Business Data Scientist Intern* at Google under the Sales and Applied AI team.
-
-> **📢 Job Market Status:** I am currently on the industry job market, seeking data scientist and applied scientist roles. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/thatswhatsimonsaid/) or via [email](mailto:simondn@uw.edu).
