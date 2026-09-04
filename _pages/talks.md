@@ -8,6 +8,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Aggregating Rashomon Sets for Robust Active Learning**;
+* [*Conference on Uncertainty in Artificial Intelligence (UAI)*](https://www.auai.org/uai2026/), August 2026, Amsterdam, the Netherlands.
 * [*NeurIPS Bayesian Decision-making and Uncertainty Workshop*](https://gp-seminar-series.github.io/neurips-2024/), December 2024, Vancouver, BC, Canada.
 
 **Optimal full matching under a new constraint on the sharing of controls**;
